@@ -13,3 +13,7 @@ também fiz a página sem utilizar nenhum framework(o que tornou a questão do t
 fui chamado para entrevista e consegui passar para a vaga, infelizmente por outras questões pessoais não pude aceitar, mas só o fato de ter conseguido
 foi muito bom, me mostrou que eu era capaz, eu mudei muito depois dessa experiência, o código é um código bem simples em HTML e CSS,
 mas resolvi deixar no meu repositório para me lembrar desse episódio que foi bem importante para mim.
+
+link para o site original: https://cursodepodologia.net/
+
+obs: como não tinha muito tempo não fiz a parte da resposividade nem as animações, minha maior preocupação foi deixar a página visualmente igual a original.
